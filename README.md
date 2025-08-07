@@ -62,7 +62,6 @@ SHEET_NAME=메일기록시트
 ## 📁 폴더 구조
 
 ```bash
-.
 ├── downloads/               # 첨부파일 저장 경로
 ├── service/
 │   ├── email_handler.py     # 메일 파싱 및 다운로드
@@ -74,6 +73,7 @@ SHEET_NAME=메일기록시트
 │   ├── .env
 │   └── env_loader.py        # .env 환경변수 로딩
 ├── main.py
+├──requirements.txt
 ├── README.md
 └── LICENSE
 ```
